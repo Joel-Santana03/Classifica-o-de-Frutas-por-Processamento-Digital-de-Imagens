@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 2. Certifique-se de que as imagens estejam organizadas no diretório apropriado:
    ```
-   /processed_database
+   /processed_database01
        /banana
        /laranja
        /maca
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 ## **Estrutura de Arquivos**
 ```plaintext
-├── processed_database/         # Diretório com as imagens pré-processadas
+├── processed_database01/         # Diretório com as imagens pré-processadas
 ├── representation_base.csv     # Base de dados de representação (assinaturas)
 ├── description_base.csv        # Base de dados de descrição (descritores geométricos)
 ├── main.py                     # Código principal do projeto
